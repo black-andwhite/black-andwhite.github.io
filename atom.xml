@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://black-andwhite.github.io</id>
     <title>黑白主站</title>
-    <updated>2020-05-20T11:33:43.386Z</updated>
+    <updated>2020-05-21T12:18:41.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://black-andwhite.github.io"/>
     <link rel="self" href="https://black-andwhite.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://black-andwhite.github.io/images/avatar.png</logo>
     <icon>https://black-andwhite.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 黑白主站</rights>
+    <entry>
+        <title type="html"><![CDATA[本群迎宾小姐是（skam）！]]></title>
+        <id>https://black-andwhite.github.io/post/ben-qun-ying-bin-xiao-jie-shi-skam/</id>
+        <link href="https://black-andwhite.github.io/post/ben-qun-ying-bin-xiao-jie-shi-skam/">
+        </link>
+        <updated>2020-05-21T12:08:32.000Z</updated>
+        <content type="html"><![CDATA[<p>一进群你就会收到他热情的欢迎！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这里是黑白站（1057298347{高二11班}）哦！]]></title>
         <id>https://black-andwhite.github.io/post/zhe-li-shi-hei-bai-zhan-1057298347gao-er-11-ban-e/</id>
